@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554129836 source:c:\users\balogun gift\documents\netbeansprojects\project1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+
